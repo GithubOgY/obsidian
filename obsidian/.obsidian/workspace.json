@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "9dd5093f7feb4645",
+    "type": "split",
+    "children": [
+      {
+        "id": "994d5cd20047beba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea09e1c8ae20c4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "無題のファイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "無題のファイル"
+            }
+          },
+          {
+            "id": "358c3777e604ca88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-06-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-19"
+            }
+          },
+          {
+            "id": "ad5ae5499d7b7aa1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f41cb71e3c7556f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eb49b8a8fc424db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29cbda59a6e21ab8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "95a201cb1459bb74",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "ff1b1b1f5292f7d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 349.5
+  },
+  "right": {
+    "id": "7e09317bd40e9d01",
+    "type": "split",
+    "children": [
+      {
+        "id": "4aecd6dc78247629",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca827c1ef875a83",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NotionとObsidian講義台本_5000文字.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "NotionとObsidian講義台本_5000文字へのバックリンク"
+            }
+          },
+          {
+            "id": "82e75cb34761ba62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NotionとObsidian講義台本_5000文字.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "NotionとObsidian講義台本_5000文字からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "af41f304ca1b33d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "3993ffb335216a8f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "アウトライン"
+            }
+          },
+          {
+            "id": "f0244d9f4b2659af",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f0244d9f4b2659af",
+  "lastOpenFiles": [
+    "2025-06-19.md",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
+    "無題のファイル.md",
+    "労働者協同組合たすき星_従業員実収入.md",
+    "訓練実施の基本方針_説明付き.md",
+    "訓練実施の基本方針.md",
+    "労働者協同組合たすき星_銀行借入手続き.md",
+    "労働者協同組合たすき星_従量分配金計算書.md",
+    "労働者協同組合たすき星_従量分配金算定基準案.md",
+    "労働者協同組合たすき星＿従業員実収入２.md",
+    "労働者協同組合たすき星_従量分配金算定.md",
+    "労働者協同組合たすき星_公認会計士評価.md",
+    "労働者協同組合たすき星_KPI設定案.md",
+    "労働者協同組合たすき星_収支計画_1.md",
+    "労働者協同組合たすき星_収支積算根拠.md",
+    "知的障害を伴う発達障害者の施設内訓練実践.md",
+    "労働者協同組合たすき星_収支計画概要.md",
+    "労働者協同組合たすき星_予算管理体制.md",
+    "初期アセスメントの評価事項_記入例付き.md",
+    "労働者協同組合たすき星_従業員収入.md",
+    "監査/2024/12月/人件費詳細分析.md",
+    "監査/2024/12月/財務分析変更履歴.md",
+    "監査/2024/12月/監事提言_人件費課題.md",
+    "守山市地域子育て支援拠点施設/03_業務内容/支援者業務内容.md",
+    "守山市地域子育て支援拠点施設/02_利用ストーリー/利用ストーリー詳細.md",
+    "守山市地域子育て支援拠点施設/01_ペルソナ分析/ペルソナ設定.md",
+    "守山市地域子育て支援拠点施設/index.md",
+    "守山市地域子育て支援拠点施設/03_業務内容",
+    "守山市地域子育て支援拠点施設/02_利用ストーリー",
+    "守山市地域子育て支援拠点施設/01_ペルソナ分析",
+    "守山市地域子育て支援拠点施設",
+    "無題のフォルダ",
+    "監査/2024/12月",
+    "監査/2024",
+    "監査",
+    "株式分析",
+    "NTTの株価分析"
+  ]
+}
