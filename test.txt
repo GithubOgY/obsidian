@@ -1,0 +1,8 @@
+これはテストファイルです。
+
+Obsidianでの連携テスト用に作成されました。
+
+作成日時: 2025-06-19
+場所: C:\Users\user\Documents\obsidian\
+
+このファイルはObsidianで開いて編集できます。
