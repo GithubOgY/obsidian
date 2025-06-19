@@ -39,32 +39,14 @@
             "id": "9f653b7050dd7bae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-1-27 山科区役所　障害福祉課打合せ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-1-27 山科区役所　障害福祉課打合せ"
-            }
-          },
-          {
-            "id": "362b4013c82a8ebd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-1-27　弁護士打合せ報告書.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-1-27　弁護士打合せ報告書"
+              "title": "新規タブ"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -83,7 +65,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "ファイルエクスプローラ"
@@ -201,7 +184,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "362b4013c82a8ebd",
+  "active": "a01998049b385fad",
   "lastOpenFiles": [
     "2025-1-27 有香ちゃんの年金の申請.md",
     "2025-1-27 山科区役所　障害福祉課打合せ.md",
