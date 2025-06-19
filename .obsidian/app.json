@@ -1,1 +1,20 @@
-{}
+{
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
+  "showUnsupportedFiles": true,
+  "deleteFileOption": "trash",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "showInlineTitle": true,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "spellcheck": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "livePreview": true
+}
